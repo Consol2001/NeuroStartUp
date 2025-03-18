@@ -1,2 +1,2 @@
 # NeuroStartUp
-Netology Task
+My 1st Netology HomeWork
